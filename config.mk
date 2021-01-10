@@ -1,6 +1,4 @@
-# MicroG stuff
 PRODUCT_PACKAGES += \
-    com.google.android.maps \
     FakeStore \
     FDroid \
     FDroidPrivilegedExtension \
@@ -8,4 +6,7 @@ PRODUCT_PACKAGES += \
     GsfProxy \
     MozillaNlpBackend \
     NominatimNlpBackend \
+    com.google.android.maps.xml \
+    com.google.android.maps.jar \
     DroidGuard
+
