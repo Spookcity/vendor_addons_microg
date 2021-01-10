@@ -7,4 +7,5 @@ PRODUCT_PACKAGES += \
     GmsCore \
     GsfProxy \
     MozillaNlpBackend \
-    NominatimNlpBackend
+    NominatimNlpBackend \
+    DroidGuard
